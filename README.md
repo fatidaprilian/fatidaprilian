@@ -49,8 +49,8 @@ My current focus is API architecture, maintainable codebases, and reliable deliv
 
 ## GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fatidaprilian&show_icons=true&hide_border=true&title_color=0f766e&icon_color=0f766e&text_color=334155&bg_color=ffffff&v=1" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatidaprilian&layout=compact&langs_count=8&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff&v=1" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats-farid.vercel.app/api?username=fatidaprilian&show_icons=true&hide_border=true&title_color=0f766e&icon_color=0f766e&text_color=334155&bg_color=ffffff" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats-farid.vercel.app/api/top-langs/?username=fatidaprilian&layout=compact&langs_count=8&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff" alt="Top Languages" />
 </p>
 
 ## Contact
