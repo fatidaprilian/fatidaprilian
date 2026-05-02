@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:38BDF8&height=200&section=header&text=Farid%20Eka%20Aprilian%20%E2%9C%A8&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Systems%20%7C%20APIs%20%7C%20Product%20Engineering&descSize=16&descAlignY=55" width="100%" alt="Farid Eka Aprilian" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:211A1C,45:E8A989,100:F8DCC8&height=200&section=header&text=Farid%20Eka%20Aprilian%20%E2%9C%A8&fontSize=46&fontColor=FFF8F2&animation=twinkling&fontAlignY=32&desc=Web%20Systems%20%7C%20APIs%20%7C%20Product%20Engineering&descSize=16&descAlignY=55" width="100%" alt="Farid Eka Aprilian" />
 
 <div>
 
@@ -49,7 +49,7 @@
 
 <img src="./img/fatidaprilian-banner.png" width="500" alt="Personal banner" /><br/>
 
-<sub>Building useful systems with clean APIs, reliable delivery, and just enough polish to make the work feel alive.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : faridaprilian215@gmail.com</sub>
+<sub>Building useful systems with clean APIs, reliable delivery, and just enough polish to make the work feel alive.</sub>
 
 <br/>
 <br/>
@@ -58,7 +58,7 @@
   <a href="#"><img src="https://img.shields.io/badge/%23-0F766E?style=for-the-badge" alt="#" /></a>
   <a href="mailto:faridaprilian215@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/fatidaprilian?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/WEBSITE-0F766E?style=for-the-badge" alt="Website" /></a>
+  <a href="https://faridekaaprilian.vercel.app/"><img src="https://img.shields.io/badge/WEBSITE-0F766E?style=for-the-badge" alt="Website" /></a>
   <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-0F766E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="#"><img src="https://img.shields.io/badge/%23-0F766E?style=for-the-badge" alt="#" /></a>
 </p>
