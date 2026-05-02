@@ -25,9 +25,8 @@
 
 - Languages: **TypeScript**, **JavaScript**, **Go**, and **PHP**.
 
+<br clear="right"/>
 <br/>
-
-<img src="https://github-readme-stats-farid.vercel.app/api/top-langs/?username=fatidaprilian&layout=compact&langs_count=8&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff" align="right" height="170" alt="Top Languages" />
 
 <img src="./img/fatidaprilian-project.png" width="488" alt="Featured repositories" />
 
@@ -42,6 +41,8 @@
 
 - [***fatidaprilian/project-management-app-nodejs***](https://github.com/fatidaprilian/project-management-app-nodejs) <br/>
   Project management application using a Node.js and TypeScript stack.
+
+<br/>
 
 <img src="./img/fatidaprilian-decor.png" width="270" align="right" alt="Pointer artwork" />
 
