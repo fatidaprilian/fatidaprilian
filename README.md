@@ -2,7 +2,7 @@
 
 <div>
 
-<img width="330" src="./img/fatidaprilian-profile.jpg" align="right" alt="Profile artwork" />
+<img width="330" src="./img/fatidaprilian-profile.png" align="right" alt="Profile artwork" />
 
 <br/>
 
