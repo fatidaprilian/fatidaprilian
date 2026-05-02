@@ -27,6 +27,8 @@
 
 <br/>
 
+<img src="https://github-readme-stats-farid.vercel.app/api/top-langs/?username=fatidaprilian&layout=compact&langs_count=8&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff" align="right" height="170" alt="Top Languages" />
+
 <img src="./img/fatidaprilian-project.png" width="488" alt="Featured repositories" />
 
 <br/>
@@ -67,7 +69,6 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-farid.vercel.app/api?username=fatidaprilian&show_icons=true&hide_border=true&title_color=0f766e&icon_color=0f766e&text_color=334155&bg_color=ffffff" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats-farid.vercel.app/api/top-langs/?username=fatidaprilian&layout=compact&langs_count=8&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff" alt="Top Languages" />
 </p>
 
 <p align="center">
