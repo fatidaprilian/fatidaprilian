@@ -2,7 +2,7 @@
 
 <div>
 
-<img width="330" src="./img/fatidaprilian-profile.png" align="right" alt="Profile artwork" />
+<img width="300" src="./img/fatidaprilian-profile.png" align="right" alt="Profile artwork" />
 
 <br/>
 
@@ -25,7 +25,6 @@
 
 - Languages: **TypeScript**, **JavaScript**, **Go**, and **PHP**.
 
-<br clear="right"/>
 <br/>
 
 <img src="./img/fatidaprilian-project.png" width="488" alt="Featured repositories" />
