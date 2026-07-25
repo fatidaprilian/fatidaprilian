@@ -7,7 +7,7 @@ Final-year Information Technology student and Full-stack Developer based in Indo
 *   **[Vespa Storefront](https://github.com/fatidaprilian/ecommercevespa-client)** — A full-stack e-commerce app built with Next.js, PostgreSQL, and Docker microservices.
 
 ### 💻 Stack I Use Most
-`TypeScript` `Go` `Next.js` `PostgreSQL` `Docker`
+`TypeScript` `Next.js` `PostgreSQL` `Docker`
 
 ### 📈 Recent Highlights
 *   Packaged a Computer Vision skin-analysis tool (**Dermascope**) into a single portable Docker container.
