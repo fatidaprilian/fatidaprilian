@@ -18,7 +18,7 @@ Final-year Information Technology student and full-stack developer based in Indo
 `TypeScript` `Next.js` `React` `PostgreSQL` `Docker` `PHP`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatidaprilian&show_icons=true&theme=transparent&hide_border=true&hide_title=true&rank_icon=github" alt="GitHub stats" />
+  <img src="https://github-readme-stats-farid.vercel.app/api?username=fatidaprilian&show_icons=true&theme=transparent&hide_border=true&hide_title=true&rank_icon=github" alt="GitHub stats" />
 </p>
 
 ---
