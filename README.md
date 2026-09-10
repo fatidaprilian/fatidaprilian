@@ -8,7 +8,7 @@ Final-year Information Technology student and full-stack developer based in Indo
 
 ### Recent Highlights
 *   Packaged a Computer Vision skin-analysis tool (**Dermascope**) into a single portable Docker container.
-*   Built a Web3 **[Digital Credential Platform](https://github.com/fatidaprilian/digital-credential-platform)** for NFT certificate issuance.
+*   Developed a risk-aware **[Neuro-Symbolic AI Trading](https://github.com/fatidaprilian/NeuroSymbolicAITrading)** framework combining Hybrid LR–LSTM forecasting, 5-action DQN, and symbolic safety nets.
 
 ### 2026 Focus
 *   Deepening expertise in JavaScript, React, TypeScript, and PHP.
