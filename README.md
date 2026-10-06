@@ -1,25 +1,18 @@
 # Farid Eka Aprilian
 
-Final-year Information Technology student and full-stack developer based in Indonesia. I build scalable web applications, design relational databases, and containerize services.
+Full-stack and backend developer based in Indonesia, finishing my final year in Information Technology. I build web applications, relational database schemas, and AI-assisted workflows.
 
-### Currently Working On
-*   **[Agentic-Senior-Core](https://github.com/fatidaprilian/Agentic-Senior-Core)** — Open-source CLI that enforces AI coding rules. Node.js, distributed via npm.
-*   **[SerbaSerbi](https://github.com/fatidaprilian/serbaserbi)** — Invoicing and contract generator for Indonesian freelancers. Next.js, React-PDF, dual currency.
-
-### Recent Highlights
-*   Packaged a Computer Vision skin-analysis tool (**Dermascope**) into a single portable Docker container.
-*   Developed a risk-aware **[Neuro-Symbolic AI Trading](https://github.com/fatidaprilian/NeuroSymbolicAITrading)** framework combining Hybrid LR–LSTM forecasting, 5-action DQN, and symbolic safety nets.
-
-### 2026 Focus
-*   Deepening expertise in JavaScript, React, TypeScript, and PHP.
-*   Actively looking for an internship — open to opportunities.
+### Featured Projects
+*   **[Agentic-Senior-Core](https://github.com/fatidaprilian/Agentic-Senior-Core)** — Open-source CLI that enforces engineering rules and prevents code slop in AI coding agents. Distributed via npm.
+*   **[NeuroSymbolicAITrading](https://github.com/fatidaprilian/NeuroSymbolicAITrading)** — Risk-aware crypto trading framework combining Hybrid LR–LSTM forecasting, 5-action DQN, and symbolic safety nets.
+*   **[SerbaSerbi](https://github.com/fatidaprilian/serbaserbi)** — Invoicing and legal contract generator for Indonesian freelancers. Next.js, React-PDF, and dual-currency support.
 
 ### Stack
-`TypeScript` `Next.js` `React` `PostgreSQL` `Docker` `PHP`
+`TypeScript` `Next.js` `React` `Python` `PostgreSQL` `Docker`
 
-<p align="center">
-  <img src="https://github-readme-stats-farid.vercel.app/api?username=fatidaprilian&show_icons=true&theme=transparent&hide_border=true&hide_title=true&rank_icon=github" alt="GitHub stats" />
-</p>
+### 2026 Focus
+*   Deepening backend architecture, database optimization, and system reliability.
+*   Actively looking for software engineering internships — open to opportunities.
 
 ---
 [Portfolio](https://faridekaaprilian.dev) • [LinkedIn](https://linkedin.com/in/farid-aprilian) • faridaprilian214@gmail.com
